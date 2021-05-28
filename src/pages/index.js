@@ -544,7 +544,7 @@ const HomePage = () => {
             <div className="flex flex-wrap text-black text-base">
               For mutual understanding, please read the disclaimer below:
             </div>
-            <ul class="list-disc ml-6 mb-4">
+            <ul className="list-disc ml-6 mb-4">
               <li>
                 This event is for KillSwitch shirts auction and souvenirs only
                 *Not for selling Token Digital (NFT)
